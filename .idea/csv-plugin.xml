@@ -31,6 +31,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/yalco-inflearn-graphql-apollo/3-1-server-modularized/typedefs-resolvers/equipments.js">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/yalco-inflearn-graphql-apollo/3-3-union-interface/data-in-csv/people.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
